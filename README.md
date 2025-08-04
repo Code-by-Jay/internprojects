@@ -28,15 +28,8 @@ Welcome to **JayCodes**, a personal and responsive landing page built with HTML 
 ## 👨‍💻 Author
 
 **Jay**  
-🔗 [Portfolio](#) • [GitHub](https://github.com/your-username) • [Twitter](#)
+🔗  • [GitHub](https://github.com/Code-by-Jay) • 
 
 
 
 
-
-
-
-
-
-
-Ask ChatGPT
